@@ -1,2 +1,2 @@
 # GadgetShop
-Carrito de Compr
+Carrito de Compra
